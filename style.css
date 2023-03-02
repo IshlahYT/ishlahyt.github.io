@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    margin-top: 120px;
+}
+*{
+    font-family: 'poppins',sans-serif;
+}
+.container .hero-text h1{
+    color: #2b2b2b;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 20px 0px 20px;
+}
+span{
+    color: #2788ff;
+}
+.container .hero-text h3{
+    color: #2b2b2b;
+    font-weight: 600;
+    font-size: 17px;
+}
+.container .navbar-brand b{
+    color: rgb(39, 136, 255);
+}
