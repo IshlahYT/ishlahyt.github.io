@@ -28,3 +28,7 @@ span{
 .container .navbar-brand b{
     color: rgb(39, 136, 255);
 }
+
+.padding{
+    padding: 50px 50px 50px 50px;
+}
